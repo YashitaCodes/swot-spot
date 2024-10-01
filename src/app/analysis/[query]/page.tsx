@@ -681,7 +681,7 @@ export default function Home({params}: { params: {query: string}}) {
             </div>
           </CardContent>
         </Card>
-        <Card className="w-full">
+        <Card className="w-full mb-16">
           <CardHeader>
             <CardTitle>Risk Analysis</CardTitle>
             <CardDescription>Identifying and mitigating potential risks</CardDescription>
